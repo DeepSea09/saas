@@ -1,0 +1,528 @@
+{
+  "carAgeSource": [
+    {
+      "title": " 1年以内 ",
+      "value": "0|1"
+    },
+    {
+      "title": " 3年以内 ",
+      "value": "0|3"
+    },
+    {
+      "title": " 5年以内 ",
+      "value": "0|5"
+    },
+    {
+      "title": " 8年以内 ",
+      "value": "0|8"
+    },
+    {
+      "title": " 10年以内 ",
+      "value": "0|10"
+    }
+  ],
+  "carKMSource": [
+    {
+      "title": " 1万公里以内 ",
+      "value": "0|1"
+    },
+    {
+      "title": " 3万公里以内 ",
+      "value": "0|3"
+    },
+    {
+      "title": " 5万公里以内 ",
+      "value": "0|5"
+    },
+    {
+      "title": " 10万公里以内 ",
+      "value": "0|10"
+    }
+  ],
+
+  "sequencingDataSource": [
+    {
+      "title": " 上架时间由新到旧 ",
+      "value": "1"
+    },
+    {
+      "title": " 上架时间由旧到新 ",
+      "value": "5"
+    },
+    {
+      "title": " 里程由多到少 ",
+      "value": "6"
+    },
+    {
+      "title": " 里程由少到多 ",
+      "value": "2"
+    },
+    {
+      "title": " 车龄由长到短 ",
+      "value": "7"
+    },
+    {
+      "title": " 车龄由短到长 ",
+      "value": "3"
+    },
+    {
+      "title": " 价格由高到低 ",
+      "value": "8"
+    },{
+      "title": " 价格由低到高 ",
+      "value": "4"
+    }
+  ],
+  "newCarSequencingDataSource": [
+    {
+      "title": " 上架时间由新到旧 ",
+      "value": "1"
+    },
+    {
+      "title": " 上架时间由旧到新 ",
+      "value": "5"
+    },
+    {
+      "title": " 价格由高到低 ",
+      "value": "8"
+    },{
+      "title": " 价格由低到高 ",
+      "value": "4"
+    }
+  ],
+  "carAgeMaxSource": [
+    {
+      "title": " 1年以内 ",
+      "value": "0|1"
+    },
+    {
+      "title": " 1-3年 ",
+      "value": "1|3"
+    },
+    {
+      "title": " 3-5年 ",
+      "value": "3|5"
+    },
+    {
+      "title": " 5-8年 ",
+      "value": "5|8"
+    },
+    {
+      "title": " 8-10年 ",
+      "value": "8|10"
+    },
+    {
+      "title": " 10年以上 ",
+      "value": "10|0"
+    }
+  ],
+  "carKMMaxSource": [
+    {
+      "title": " 1万公里以内 ",
+      "value": "0|1"
+    },
+    {
+      "title": " 1-3万公里 ",
+      "value": "1|3"
+    },
+    {
+      "title": " 3-5万公里 ",
+      "value": "3|5"
+    },
+    {
+      "title": " 5-10万公里 ",
+      "value": "5|10"
+    },
+    {
+      "title": " 8-10万公里 ",
+      "value": "8|10"
+    },
+    {
+      "title": " 10万公里以上 ",
+      "value": "10|0"
+    }
+  ],
+  "carTypeSource":[
+    {
+      "title": " 新车 ",
+      "value": "2"
+    },
+    {
+      "title": " 二手车 ",
+      "value": "1"
+    }
+  ],
+  "provinceSource":[
+    {
+      "title":"A",
+      "data":[
+        {
+          "title":"安徽",
+          "ID":"13"
+        }
+      ]
+    },{
+      "title":"B",
+      "data":[
+        {
+          "title":"北京",
+          "ID":"1"
+        }
+      ]
+    },{
+      "title":"C",
+      "data":[
+        {
+          "title":"重庆",
+          "ID":"4"
+        }
+      ]
+    },{
+      "title":"F",
+      "data":[
+        {
+          "title":"福建",
+          "ID":"14"
+        }
+      ]
+    },{
+      "title":"G",
+      "data":[
+        {
+          "title":"广东",
+          "ID":"20"
+        },{
+          "title":"甘肃",
+          "ID":"21"
+        },{
+          "title":"贵州",
+          "ID":"24"
+        },{
+          "title":"广西",
+          "ID":"29"
+        }
+      ]
+    },{
+      "title":"H",
+      "data":[
+        {
+          "title":"河北",
+          "ID":"5"
+        },{
+          "title":"黑龙江",
+          "ID":"10"
+        },{
+          "title":"河南",
+          "ID":"17"
+        },{
+          "title":"湖北",
+          "ID":"18"
+        },{
+          "title":"湖南",
+          "ID":"19"
+        },{
+          "title":"海南",
+          "ID":"25"
+        }
+      ]
+    },{
+      "title":"J",
+      "data":[
+        {
+          "title":"吉林",
+          "ID":"9"
+        },{
+          "title":"江苏",
+          "ID":"11"
+        },{
+          "title":"江西",
+          "ID":"15"
+        }
+      ]
+    },{
+      "title":"L",
+      "data":[
+        {
+          "title":"辽宁",
+          "ID":"8"
+        }
+      ]
+    },{
+      "title":"N",
+      "data":[
+        {
+          "title":"宁夏",
+          "ID":"31"
+        },{
+          "title":"内蒙古",
+          "ID":"33"
+        }
+      ]
+    },{
+      "title":"Q",
+      "data":[
+        {
+          "title":"青海",
+          "ID":"27"
+        }
+      ]
+    },{
+      "title":"S",
+      "data":[
+        {
+          "title":"上海",
+          "ID":"3"
+        },{
+          "title":"山西",
+          "ID":"6"
+        },{
+          "title":"山东",
+          "ID":"16"
+        },{
+          "title":"四川",
+          "ID":"22"
+        },{
+          "title":"陕西",
+          "ID":"28"
+        }
+      ]
+    },{
+      "title":"T",
+      "data":[
+        {
+          "title":"天津",
+          "ID":"2"
+        }
+      ]
+    },{
+      "title":"X",
+      "data":[
+        {
+          "title":"西藏",
+          "ID":"30"
+        },{
+          "title":"新疆",
+          "ID":"32"
+        }
+      ]
+    },{
+      "title":"Y",
+      "data":[
+        {
+          "title":"云南",
+          "ID":"26"
+        }
+      ]
+    },{
+      "title":"Z",
+      "data":[
+        {
+          "title":"浙江",
+          "ID":"12"
+        }
+      ]
+    }
+  ],
+  "provinceSource2":[
+    {
+      "title":"A",
+      "data":[
+        {
+          "provCode": "340000",
+          "provId": 13,
+          "provName": "安徽"
+        }
+      ]
+    },{
+      "title":"B",
+      "data":[
+        {
+          "provCode": "110000",
+          "provId": 1,
+          "provName": "北京"
+        }
+      ]
+    },{
+      "title":"C",
+      "data":[
+        {
+          "provCode": "500000",
+          "provId": 4,
+          "provName": "重庆"
+        }
+      ]
+    },{
+      "title":"F",
+      "data":[
+        {
+          "provCode": "350000",
+          "provId": 14,
+          "provName": "福建"
+        }
+      ]
+    },{
+      "title":"G",
+      "data":[
+        {
+          "provCode": "440000",
+          "provId": 20,
+          "provName": "广东"
+        },{
+          "provCode": "620000",
+          "provId": 21,
+          "provName": "甘肃"
+        },{
+          "provCode": "520000",
+          "provId": 24,
+          "provName": "贵州"
+        },{
+          "provCode": "450000",
+          "provId": 29,
+          "provName": "广西"
+        }
+      ]
+    },{
+      "title":"H",
+      "data":[
+        {
+          "provCode": "130000",
+          "provId": 5,
+          "provName": "河北"
+        },{
+          "provCode": "230000",
+          "provId": 10,
+          "provName": "黑龙江"
+        }, {
+          "provCode": "410000",
+          "provId": 17,
+          "provName": "河南"
+        }, {
+          "provCode": "420000",
+          "provId": 18,
+          "provName": "湖北"
+        },{
+          "provCode": "430000",
+          "provId": 19,
+          "provName": "湖南"
+        },{
+          "provCode": "460000",
+          "provId": 25,
+          "provName": "海南"
+        }
+      ]
+    },{
+      "title":"J",
+      "data":[
+        {
+          "provCode": "220000",
+          "provId": 9,
+          "provName": "吉林"
+        },{
+          "provCode": "320000",
+          "provId": 11,
+          "provName": "江苏"
+        },{
+          "provCode": "360000",
+          "provId": 15,
+          "provName": "江西"
+        }
+      ]
+    },{
+      "title":"L",
+      "data":[
+        {
+          "provCode": "210000",
+          "provId": 8,
+          "provName": "辽宁"
+        }
+      ]
+    },{
+      "title":"N",
+      "data":[
+        {
+          "provCode": "640000",
+          "provId": 31,
+          "provName": "宁夏"
+        },{
+          "provCode": "150000",
+          "provId": 33,
+          "provName": "内蒙古"
+        }
+      ]
+    },{
+      "title":"Q",
+      "data":[
+        {
+          "provCode": "630000",
+          "provId": 27,
+          "provName": "青海"
+        }
+      ]
+    },{
+      "title":"S",
+      "data":[
+        {
+          "provCode": "310000",
+          "provId": 3,
+          "provName": "上海"
+        }, {
+          "provCode": "140000",
+          "provId": 6,
+          "provName": "山西"
+        },{
+          "provCode": "370000",
+          "provId": 16,
+          "provName": "山东"
+        },{
+          "provCode": "510000",
+          "provId": 22,
+          "provName": "四川"
+        },{
+          "provCode": "610000",
+          "provId": 28,
+          "provName": "陕西"
+        }
+      ]
+    },{
+      "title":"T",
+      "data":[
+        {
+          "provCode": "120000",
+          "provId": 2,
+          "provName": "天津"
+        }
+      ]
+    },{
+      "title":"X",
+      "data":[
+        {
+          "provCode": "540000",
+          "provId": 30,
+          "provName": "西藏"
+        },{
+          "provCode": "650000",
+          "provId": 32,
+          "provName": "新疆"
+        }
+      ]
+    },{
+      "title":"Y",
+      "data":[
+        {
+          "provCode": "530000",
+          "provId": 26,
+          "provName": "云南"
+        }
+      ]
+    },{
+      "title":"Z",
+      "data":[
+        {
+          "provCode": "330000",
+          "provId": 12,
+          "provName": "浙江"
+        }
+      ]
+    }
+  ]
+}
